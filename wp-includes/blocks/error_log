@@ -1,0 +1,56 @@
+[14-Jan-2024 10:54:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[27-Jan-2024 06:09:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[28-Jan-2024 22:40:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[31-Jan-2024 04:52:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[14-Feb-2024 10:43:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[15-Feb-2024 02:48:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[13-Mar-2024 15:02:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[13-Mar-2024 16:18:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[18-Mar-2024 14:41:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[21-Mar-2024 22:17:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[23-Mar-2024 05:11:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[23-Mar-2024 12:30:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[25-Mar-2024 04:10:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8
+[29-Mar-2024 02:32:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/skinexpert.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/blocks/index.php on line 8

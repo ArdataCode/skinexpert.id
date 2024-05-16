@@ -1,0 +1,16 @@
+[14-Jan-2024 10:54:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/skinexpert.id/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[31-Jan-2024 04:53:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/skinexpert.id/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[23-Mar-2024 05:08:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/skinexpert.id/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[25-Mar-2024 04:07:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/skinexpert.id/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/rest-api/class-wp-rest-response.php on line 17

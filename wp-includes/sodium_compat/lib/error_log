@@ -1,0 +1,8 @@
+[23-Mar-2024 05:11:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[25-Mar-2024 04:10:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/lib/ristretto255.php on line 6

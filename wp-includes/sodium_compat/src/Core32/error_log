@@ -1,0 +1,159 @@
+[23-Mar-2024 04:48:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[23-Mar-2024 04:48:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[23-Mar-2024 04:48:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[23-Mar-2024 04:48:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[23-Mar-2024 04:48:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[23-Mar-2024 04:48:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[23-Mar-2024 04:48:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[23-Mar-2024 04:48:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[23-Mar-2024 04:48:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[23-Mar-2024 04:48:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[23-Mar-2024 04:48:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[23-Mar-2024 04:48:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[23-Mar-2024 04:48:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[23-Mar-2024 05:14:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[23-Mar-2024 05:14:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[23-Mar-2024 05:14:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[23-Mar-2024 05:14:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[23-Mar-2024 05:14:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[23-Mar-2024 05:14:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[23-Mar-2024 05:14:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[23-Mar-2024 05:14:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[23-Mar-2024 05:14:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[23-Mar-2024 05:14:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[23-Mar-2024 05:14:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[23-Mar-2024 05:14:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[23-Mar-2024 05:14:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[25-Mar-2024 04:13:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[25-Mar-2024 04:13:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[25-Mar-2024 04:13:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[25-Mar-2024 04:13:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[25-Mar-2024 04:13:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[25-Mar-2024 04:13:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[25-Mar-2024 04:13:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[25-Mar-2024 04:13:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[25-Mar-2024 04:13:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[25-Mar-2024 04:13:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[25-Mar-2024 04:13:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[25-Mar-2024 04:13:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[25-Mar-2024 04:13:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10

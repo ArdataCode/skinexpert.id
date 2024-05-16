@@ -1,0 +1,12 @@
+[23-Mar-2024 04:47:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[23-Mar-2024 05:13:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[25-Mar-2024 04:12:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12

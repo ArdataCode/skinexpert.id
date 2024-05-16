@@ -1,0 +1,16 @@
+[14-Jan-2024 10:53:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/skinexpert.id/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/SimplePie/Core.php on line 53
+[31-Jan-2024 04:52:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/skinexpert.id/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/SimplePie/Core.php on line 53
+[23-Mar-2024 05:07:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/skinexpert.id/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/SimplePie/Core.php on line 53
+[25-Mar-2024 04:06:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/websit19/skinexpert.id/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/SimplePie/Core.php on line 53

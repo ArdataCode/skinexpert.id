@@ -1,0 +1,32 @@
+[14-Jan-2024 10:53:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[14-Jan-2024 10:53:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[31-Jan-2024 04:52:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[31-Jan-2024 04:52:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[23-Mar-2024 05:05:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[23-Mar-2024 05:05:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[25-Mar-2024 04:05:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[25-Mar-2024 04:05:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/skinexpert.id/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
